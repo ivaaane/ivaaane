@@ -12,9 +12,10 @@ I'm a (still learning) programmer and game developer from Barcelona, Spain.
 Something about me:  
   
 * 🍝 My favorite foods are spaghetti (with tomato sauce and tuna) and kebab.  
-* 🎮 My favorite videogame is Stardew Valley. My favorite book is Nineteen Eighty Four.
+* 🎮 My favorite videogame is Stardew Valley.
+* 📘 My favorite book is Nineteen Eighty Four.
 * 🎥 My favorite movie is Push in Boots: The Last Wish.
 * 📺 My favorite series are Avatar: The Last Airbender and The Owl House.
-* 🏳️‍🌈 I'm still learning GitHub, but I'm open for collaborations 😉
+* 🏳️‍🌈 I'm still learning GitHub, but I'm open for collaborations 😉.
   
 That should be all. Enjoy your day!  
