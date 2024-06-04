@@ -8,7 +8,9 @@ Haii, I'm Iván, a (still learning) programmer and game developer from Barcelona
 * Appart of coding, I also like studying geography, history, antrophology, linguistics and writing stories.  
 * My favorite foods are spaghetti (with tomato sauce and tuna) and kebab.  
 * My favorite videogame is Stardew Valley.  
-* My favorite books are Nineteen Eighty Four and The Lord of the Rings.  
+* My favorite books are Nineteen Eighty Four and The Lord of the Rings.
+* My favorite movies are The Peanuts Movie (2019) and Push in Boots: The Last Wish.
+* My favorite series are Avatar: The Last Airbender and The Owl House.
 * I'm still learning GitHub, but I'm open for collaborations 😉
   
 That should be all. Enjoy your day!  
