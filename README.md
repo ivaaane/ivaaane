@@ -1,7 +1,7 @@
 Haii, I'm Iván, a (still learning) programmer and game developer from Barcelona, Spain. Take more information here:  
   
 * I am autism, I'm visible in your children.  
-* I'm agender (I don't identify with any gender). Use any pronouns you want, but I feel more confortable with she/her. I'm also bisexual.
+* I'm agender (I don't identify with any gender). She/her please.
 * I started my interest in coding with Scratch, where I stayed for 2 years making my own games.  
 * I started studying seriously with Python 3 using codecademy.com.  
 * My biggest aspiration is being a videogame developer. As I write this, I'm learning to use Godot Engine for it.  
