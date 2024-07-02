@@ -1,19 +1,15 @@
-# ✨Helloo
+### Hai, I'm Iván :3
 
-I'm Iván, also known as Yersinia online. I'm an aspiring programmer and game developer currently studying computer science.
-I like making silly projects with the hope one will be actually good, learning technologies to make rellevant tools for me and others and
-creating fun experiences, though I still need more skill.
+![imagen](https://github.com/ivaaane/ivaaane/assets/171681721/67eb78b1-7f81-4b27-b4e8-47cae7d3c8f1)
 
-### More about
+Aspiring programmer, game developer and computer science student with interest in anthropology.
 
-🌍 Other interests or mine are history, geopolitics, linguistics, worldbuilding and antrophology in general.  
-🎮 Favorite media: Stardew Valley, Push in Boots: The Last Wish, Lord of the Rings, 1984, The Owl House, Good Omens.  
 📍 Barcelona, Spain.  
 🗨️ Spanish, Catalan, English and toki pona.  
 ⚧️ Any pronouns.  
-♾️ Autistic and evil.  
+♾️ Autistic and evil.    
 
-### Skills
+---
 
 ![](https://skillicons.dev/icons?i=py,lua,js,html,css,godot,git)
 
