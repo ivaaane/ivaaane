@@ -4,8 +4,10 @@
 
 Aspiring programmer, game developer and computer science student with interest in anthropology.  
 
-</> Python, Lua, JavaScript, GDScript   
+</> Python, Lua, JavaScript, GDScript.   
 📍 Barcelona, Spain.  
 🗨️ Spanish, Catalan, English, toki pona.  
 ⚧️ Any pronouns.  
 ♾️ Autistic and evil.  
+💻 **Working on** a mobile app for payment calculation, my first Godot game, planning an esoteric language.
+
