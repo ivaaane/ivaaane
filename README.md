@@ -5,8 +5,12 @@
 I'm a game developer, hobbyist coder, writer and doer of Other Things - interested in history, geopolitics and linguistics.
 When I was a child I was vaccinated while exposed to 5G radiation and drinking milk, so that's why I'm autistic.  
 
-📍 Barcelona, Spain. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗨️ ESP, CAT, ENG, TOK, EPO,   
+👩‍💻 Lua, Python, JS
 
-👩‍💻 Lua, Python, JS .&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⚧️ Any pronouns.  
+📍 Barcelona, Spain.
+
+🗨️ ESP, CAT, ENG, TOK, EPO 
+
+<br /><br /><br />
 
 ###### i use arch btw
