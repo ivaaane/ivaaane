@@ -1,9 +1,9 @@
-Haii :3
+### Haii :3
 
 I'm a computer science student, hobbyist programmer and game developer from Spain. Interests includes history, geopolitics, linguistics, conlangs
-and writing. Autistic and tokiponist.
+and writing. Autistic and tokiponist. mu!
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaaane&layout=compact&theme=transparent&exclude_repo=.dotfiles)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaaane&layout=compact&theme=transparent&exclude_repo=.dotfiles&langs_count=20)
 
 ```c
 #include<stdio.h>
@@ -14,3 +14,4 @@ int main() {
 	return 0;
 }
 ```
+###### i use endeavourOS btw
