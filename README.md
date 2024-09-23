@@ -1,17 +1,28 @@
-### Haii :3
+```
+@#++#@@@###@@@##@@@##@++++###@#++####@@@@##+##@                                               
+@@@###@@@@##@@@#@@@##@@@##@#+.+@@###@@@####@@@@                                               
+#@@@@##@@@@#@@@@#@@@#@@@#@@@@#@@##@@@@###@@@@@#                                               
+###@@@###@@@#@@##@@@@@@@@@@##@@##@@@###@@@@##+#                                               
+@@###@@@@#@@@#+###@@@@@@@@+  -#@@@@##@@@@####@@                                               
+@@@@@##@@@@@#+@@+.+@@@@@@=    .@@#@@@@@###@@@@@                                               
+###@@@@@@@@@-.-..  ++====   ....@@@@@@@@@@@@###  haii :3                              
+@@@@#@@@@@@#   ... .        . - +@@@@@@@@###@@@  -------------                                
+#@@@@@@@@@=-   ...              -@@@@@@@@@@@@@@  i'm a computer science student,                               
+@@@@@@@@@#                 .     -@@@@@@@@#####  hobbyist programmer and game              
+@@@@@@@@@.          -.     @#-    -@@@@@@@@@@@@  developer from Spain. interests                                
+@@@@@@@@#          =#    .#@@@#.   +@@@@@@@@###  include history, geopolitics                                
+@@@@@@@@#         -+. .=+@@@+---   -@@@@@@@@@@@  linguistics, conlangs and writing.                       
+@@@@@@@@+        ##  +@@@@@=+= #-  .@@@@@@@@@@@  Autistic and tokiponist. mu!                 
+@@@@@@@@=       -@@+++#@@@#+@#+#-   =@@@@@@@@##  -------------                                 
+@@@@@@@#.       +###@@@@@@@@@@@@# .+-+@@@@@@@@@  i use arch btw                             
+@@#@@@@=        =@@@@@@@@@@@@@@@# -@@@@@@@@####                               
+#@@@@@@#=---    -#@@@###@@@@@@@+ =+-@@@@@@@@@@@                     
+@@@##@@@@#@@=    -=+#@@@@@@#+- .=@@-@@#+##=.#@@                                               
+###@@@@@###+#+-++=--......--=-+++@+=##@@@####+#                                               
+#@@@@###++++#+=#@@@#@@####@@#=+##++@@@#=+#@@@@#                                               
+@@@##@@+#@-++====++#@@@@@@#=-=+@@@@@@@@=####@@@                                               
+@###@@@#.  .##++++==----..  =+@@@@@@@@@+#@#+##@ 
+```
 
-I'm a computer science student, hobbyist programmer and game developer from Spain. Interests includes history, geopolitics, linguistics, conlangs
-and writing. Autistic and tokiponist. mu!
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaaane&layout=compact&theme=transparent&exclude_repo=.dotfiles&langs_count=20)
-
-```c
-#include<stdio.h>
-#include<unistd.h>
-
-int main() {
-	printf("Did you know you just LOST THE GAME");
-	return 0;
-}
-```
-###### i use endeavourOS btw
