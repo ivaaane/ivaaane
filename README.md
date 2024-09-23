@@ -12,7 +12,7 @@
 @@@@@@@@@.          -.     @#-    -@@@@@@@@@@@@  developer from Spain. interests                                
 @@@@@@@@#          =#    .#@@@#.   +@@@@@@@@###  include history, geopolitics                                
 @@@@@@@@#         -+. .=+@@@+---   -@@@@@@@@@@@  linguistics, conlangs and writing.                       
-@@@@@@@@+        ##  +@@@@@=+= #-  .@@@@@@@@@@@  Autistic and tokiponist. mu!                 
+@@@@@@@@+        ##  +@@@@@=+= #-  .@@@@@@@@@@@  autistic and tokiponist. mu!                 
 @@@@@@@@=       -@@+++#@@@#+@#+#-   =@@@@@@@@##  -------------                                 
 @@@@@@@#.       +###@@@@@@@@@@@@# .+-+@@@@@@@@@  i use arch btw                             
 @@#@@@@=        =@@@@@@@@@@@@@@@# -@@@@@@@@####                               
