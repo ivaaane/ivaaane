@@ -1,3 +1,10 @@
-A lost forgotten being, living in their tower practizing the dark arts of computer science...
+a long forgotten being, staying in their tower practising the dark arts of computer science...
 
-Moo :3
+```
+ _________
+< meow :3 >
+ ---------
+   \   ^--^
+    \ (O O )_/
+       |--|--|
+```
