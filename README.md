@@ -1,1 +1,3 @@
-<img src="paypal.png" alt="meow" style="width:50%; height:auto;">
+<p align="center">
+<img src="paypal.png" alt="meow" style="width:40%; height:auto;">
+</p>
